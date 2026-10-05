@@ -3,7 +3,7 @@
 
 ## 安装
 运行setup.sh。
-您仍需手动将两个微调亮度的脚本添加到系统快捷键。
+您仍需手动将monitor_brightness_down.sh、monitor_brightness_up.sh分别添加到系统快捷键。
 
 ## 配置
-修改ini文件配置微调亮度的亮度间隔。
+修改brightness_diff.ini文件配置微调亮度的亮度间隔。
